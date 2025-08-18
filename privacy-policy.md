@@ -21,8 +21,7 @@ No screen data or related content is ever transmitted outside of your local netw
 
 To facilitate identification between devices on the network, Xyncro may access and display your macOS **username** locally. This information is:
 
-* **Not transmitted** outside your device,
-* **Not stored**, and
+* **Not transmitted** outside your device, and
 * **Not shared** with third parties.
 
 ### 4. **No Analytics or Tracking**
