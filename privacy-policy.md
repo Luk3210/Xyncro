@@ -1,6 +1,6 @@
 **Privacy Policy for Xyncro**
 
-Effective Date: July 11th 2025
+Effective Date: August 18 2025
 
 **Xyncro** respects your privacy. This Privacy Policy explains how your information is handled when you use our macOS application.
 
