@@ -19,7 +19,7 @@ No screen data or related content is ever transmitted outside of your local netw
 
 ### 3. **Username Access**
 
-To facilitate identification between devices on the network, Xyncro may access and display your macOS **username** locally. This information is:
+To facilitate identification between devices on the network, Xyncro may access and display your device's **username** locally. This information is:
 
 * **Not transmitted** outside your device, and
 * **Not shared** with third parties.
@@ -30,7 +30,7 @@ Xyncro does **not** use tracking tools, analytics services, cookies, or advertis
 
 ### 5. **Security**
 
-All communication facilitated by Xyncro occurs locally. No data is transmitted over the internet. While we design Xyncro to operate securely within local environments, we recommend using trusted and secure networks to maintain your privacy.
+All communication facilitated by Xyncro occurs locally. No data is transmitted over the internet. While we design Xyncro to operate securely within local environments, we recommend using only trusted and secure networks to maintain your privacy.
 
 ### 6. **Children’s Privacy**
 
