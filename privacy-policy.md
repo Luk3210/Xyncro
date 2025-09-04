@@ -2,7 +2,7 @@
 
 Effective Date: August 18 2025
 
-**Xyncro** respects your privacy. This Privacy Policy explains how your information is handled when you use our macOS application.
+**Xyncro** respects your privacy. This Privacy Policy explains how your information is handled when you use our application.
 
 ### 1. **No Data Collection**
 
